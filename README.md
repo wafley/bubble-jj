@@ -9,4 +9,5 @@ Konfigurasi utama website ini menggunakan file PHP untuk pengaturan **meta infor
 
 -   **Nama**: Bubble JJ
 -   **Versi**: 2.0
--   **Author**: PT Digjaya Mahakarya Teknologi
+-   **Author**: Wafley
+-   **Owner**: PT Digjaya Mahakarya Teknologi
