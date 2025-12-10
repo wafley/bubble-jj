@@ -128,7 +128,7 @@ class UsersController extends Controller
                 'different:username_2',
             ],
             'username_2' => [
-                'required',
+                'nullable',
                 'string',
                 'max:50',
                 Rule::unique('profiles', 'username_1')->ignore($user->profile->id),
